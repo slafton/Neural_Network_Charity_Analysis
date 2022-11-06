@@ -7,9 +7,9 @@
 
 ### Data Preprocessing
 
-#### * IS_SUCCESSFUL is the target for the model.
+####  IS_SUCCESSFUL is the target for the model.
 
-#### * Features for the model:
+####  Features for the model:
 ##### * APPLICATION_TYPE
 ##### * AFFILIATION
 ##### * CLASSIFICATION
@@ -20,7 +20,7 @@
 ##### * INCOME_AMT
 ##### * SPECIAL_CONSIDERATIONS
 
-#### * Variables that are neither targets/features and removed:
+####  Variables that are neither targets/features and removed:
 ##### * EIN
 ##### * NAME
 
